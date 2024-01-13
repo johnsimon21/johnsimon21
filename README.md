@@ -37,12 +37,10 @@
     <hr/>
   <div align="center"> 
     <p>MY CONTACTS</p>
-    <a href="https://www.instagram.com/maurodinisraimundo/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href = "mailto:maurotwister475@gmail.com"> 
+    <a href = "mailto:johnsimonjs21@gmail.com"> 
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/mauro-dinis-00475526a/" target="_blank">
+    <a href="https://www.linkedin.com/in/john-simonjs/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
     </a> 
   </div>
@@ -50,7 +48,7 @@
   <div align="center">
     <br><p align="centre"><b>VISITORS COUNT</b></p>  
       <p align="center">
-        <img align="center" src="https://profile-counter.glitch.me/{MauroTwister475}/count.svg" />
+        <img align="center" src="https://profile-counter.glitch.me/{johnsimon21}/count.svg" />
       </p> 
     <br>
   </div>
