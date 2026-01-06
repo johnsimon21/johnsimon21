@@ -61,8 +61,8 @@ I’m passionate about:
 
 ### 🏢 Arquitec3D (2025 – Present)
 **Full Stack Developer**
-- Built **AutoMarked**, a multi-interface automotive marketplace (↑ 30% transaction efficiency)
-- Developed **G-Fact**, an AI-powered invoice management system (↓ 40% manual processing)
+- Contributed to build **AutoMarked**, a multi-interface automotive marketplace (↑ 30% transaction efficiency)
+- Contributed to Develop **G-Fact**, an AI-powered invoice management system (↓ 40% manual processing)
 
 ### 🏫 Industrial Polytechnic Institute of Luanda
 **Full Stack Developer**
